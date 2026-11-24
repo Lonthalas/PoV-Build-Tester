@@ -1,0 +1,7 @@
+# Stats sin texto (es)
+
+# Ids internos que siguen apareciendo en los textos (es)
+
+# Stats sin texto (en)
+
+# Ids internos que siguen apareciendo en los textos (en)
